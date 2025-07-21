@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - <b>Sentiment Analysis</b>
   - [Using Textblob to analyze user comments for products in Python](https://github.com/malvinmuthuuri47/Simple_Sentiment_Analysis_Project)
-- <b>Full Stack Learning management System web App (React, NodeJS)</b>
+- <b>Full Stack Marks management System web App (React, NodeJS)</b>
   - [Showcasing how NoSQL databases can be vulnerable to tautology injection attacks](https://github.com/malvinmuthuuri47/Jkuat_Final_Project)
 - <b>Website Plugin Manager</b>
   - [A plugin manager built purely with HTML, CSS, and JavaScript (Pure DOM Manipulation)](https://github.com/malvinmuthuuri47/browser-extension-manager)
