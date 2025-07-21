@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **malvinmuthuuri47/malvinmuthuuri47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<h1>Hi. I'm Malvin! <br/>A <a href="https://github.com/malvinmuthuuri47">Backend Programmer</a> and a <a href="https://www.credly.com/badges/ce207418-77dd-44e0-8dd7-1578c9efaeaa/public_url">Cybersecurity Enthusiast</a></h1>
+
+<h2>I am proficient in the following programming languages:</h2><br />
+- Python <br />
+- JavaScript <br />
+- C <br />
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Sentiment Analysis</b>
+  - [Using Textblob to analyze user comments for products in Python](https://github.com/malvinmuthuuri47/Simple_Sentiment_Analysis_Project)
+- <b>Full Stack Learning management System web App (React, NodeJS)</b>
+  - [Showcasing how NoSQL databases can be vulnerable to tautology injection attacks](https://github.com/malvinmuthuuri47/Jkuat_Final_Project)
+- <b>Website Plugin Manager</b>
+  - [A plugin manager built purely with HTML, CSS, and JavaScript (Pure DOM Manipulation)J](https://github.com/malvinmuthuuri47/browser-extension-manager)
+- <b>My Portfolio Website</b>
+  - [My website showcasing my Bio, projects, and Elevator Pitch](https://malvinmuthuuri47.github.io/portfolio_website/)
+
+<!--
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
 -->
