@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - <b>Full Stack Learning management System web App (React, NodeJS)</b>
   - [Showcasing how NoSQL databases can be vulnerable to tautology injection attacks](https://github.com/malvinmuthuuri47/Jkuat_Final_Project)
 - <b>Website Plugin Manager</b>
-  - [A plugin manager built purely with HTML, CSS, and JavaScript (Pure DOM Manipulation)J](https://github.com/malvinmuthuuri47/browser-extension-manager)
+  - [A plugin manager built purely with HTML, CSS, and JavaScript (Pure DOM Manipulation)](https://github.com/malvinmuthuuri47/browser-extension-manager)
 - <b>My Portfolio Website</b>
   - [My website showcasing my Bio, projects, and Elevator Pitch](https://malvinmuthuuri47.github.io/portfolio_website/)
 
