@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="malvinmuthuuri47 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="malvinmuthuuri47 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="malvinmuthuuri47 | Twitter" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-twitter-m.png" />][twitter]
+[<img align="left" alt="malvinmuthuuri47 | LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-linkedin-m.png" />][linkedin]
 
 [twitter]: https://twitter.com/Malvin2572
 [linkedin]: https://www.linkedin.com/in/malvin-m-005a8a253
