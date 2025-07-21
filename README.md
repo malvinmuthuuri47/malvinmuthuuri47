@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hi. I'm Malvin! <br/>A <a href="https://github.com/malvinmuthuuri47">Backend Programmer</a> and a <a href="https://www.credly.com/badges/ce207418-77dd-44e0-8dd7-1578c9efaeaa/public_url">Cybersecurity Enthusiast</a></h1>
 
-<h2>I am proficient in the following programming languages:</h2><br />
+<h2>I am proficient in the following programming languages:</h2>
 - Python <br />
 - JavaScript <br />
 - C <br />
@@ -31,17 +31,10 @@ Here are some ideas to get you started:
 - <b>My Portfolio Website</b>
   - [My website showcasing my Bio, projects, and Elevator Pitch](https://malvinmuthuuri47.github.io/portfolio_website/)
 
-<!--
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="malvinmuthuuri47 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="malvinmuthuuri47 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
--->
+[twitter]: https://twitter.com/Malvin2572
+[linkedin]: https://www.linkedin.com/in/malvin-m-005a8a253
