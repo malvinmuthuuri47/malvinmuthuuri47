@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   - [A plugin manager built purely with HTML, CSS, and JavaScript (Pure DOM Manipulation)](https://github.com/malvinmuthuuri47/browser-extension-manager)
 - <b>My Portfolio Website</b>
   - [My website showcasing my Bio, projects, and Elevator Pitch](https://malvinmuthuuri47.github.io/portfolio_website/)
+- <b>AirBnB Clone</b>
+  - [A clone of Hotels.ng enabling people to check for hotels near them in any location](https://github.com/malvinmuthuuri47/portfolio_project)
 
 <h2> 🤳 Connect with me:</h2>
 
