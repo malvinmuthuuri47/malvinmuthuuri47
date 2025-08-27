@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <h1>Hi. I'm Malvin! <br/>A <a href="https://github.com/malvinmuthuuri47">Backend Programmer</a> and a <a href="https://www.credly.com/badges/ce207418-77dd-44e0-8dd7-1578c9efaeaa/public_url">Cybersecurity Enthusiast</a></h1>
 
-<h2>I am proficient in the following programming languages:</h2>
-- Python <br />
-- JavaScript <br />
-- C <br />
+<h2>I am proficient in this Tech stack:</h2>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,nodejs,css,html,mysql,mongodb,npm,postman,bash" />
+</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
